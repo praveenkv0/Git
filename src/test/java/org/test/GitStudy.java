@@ -5,7 +5,9 @@ public class GitStudy {
 		System.out.println("master");
 		System.out.println("senior");
 		System.out.println("junior");
+		System.out.println("conflict by senior");
 		System.out.println("conflict by junior");
+
 	}
 
 }
